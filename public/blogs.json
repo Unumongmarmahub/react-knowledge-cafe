@@ -1,47 +1,43 @@
 [
-  {
-    "id": 101,
-    "cover": "https://example.com/covers/book1.jpg",
-    "title": "The Journey Beyond",
-    "author-_img": "https://example.com/authors/author1.jpg",
-    "posted_date": "2025-01-01",
-    "reading_time": 8,
-    "hashtags": ["#Adventure", "#Inspiration", "#Travel"]
-  },
-  {
-    "id": 102,
-    "cover": "https://example.com/covers/book2.jpg",
-    "title": "Whispers of the Past",
-    "author-_img": "https://example.com/authors/author2.jpg",
-    "posted_date": "2024-12-25",
-    "reading_time": 12,
-    "hashtags": ["#Mystery", "#History", "#Thriller"]
-  },
-  {
-    "id": 103,
-    "cover": "https://example.com/covers/book3.jpg",
-    "title": "Digital Horizons",
-    "author-_img": "https://example.com/authors/author3.jpg",
-    "posted_date": "2025-01-02",
-    "reading_time": 6,
-    "hashtags": ["#Technology", "#Innovation", "#Future"]
-  },
-  {
-    "id": 104,
-    "cover": "https://example.com/covers/book4.jpg",
-    "title": "Echoes of the Heart",
-    "author-_img": "https://example.com/authors/author4.jpg",
-    "posted_date": "2024-11-15",
-    "reading_time": 10,
-    "hashtags": ["#Romance", "#Poetry", "#Feelings"]
-  },
-  {
-    "id": 105,
-    "cover": "https://example.com/covers/book5.jpg",
-    "title": "The Culinary Odyssey",
-    "author-_img": "https://example.com/authors/author5.jpg",
-    "posted_date": "2025-01-01",
-    "reading_time": 15,
-    "hashtags": ["#Food", "#Recipes", "#Culture"]
-  }
-]
+    {
+      "id": 101,
+      "cover": "https://example.com/covers/book1.jpg",
+      "title": "The Journey Beyond",
+      "author": "John Doe",
+      "author_img": "https://example.com/authors/author1.jpg",
+      "posted_date": "2025-01-01",
+      "reading_time": 8,
+      "hashtags": ["#Adventure", "#Inspiration", "#Travel"]
+    },
+    {
+      "id": 102,
+      "cover": "https://example.com/covers/book2.jpg",
+      "title": "Whispers of the Past",
+      "author": "Jane Smith",
+      "author_img": "https://example.com/authors/author2.jpg",
+      "posted_date": "2024-12-25",
+      "reading_time": 12,
+      "hashtags": ["#Mystery", "#History", "#Thriller"]
+    },
+    {
+      "id": 103,
+      "cover": "https://example.com/covers/book3.jpg",
+      "title": "Digital Horizons",
+      "author": "Emily Johnson",
+      "author_img": "https://example.com/authors/author3.jpg",
+      "posted_date": "2025-01-02",
+      "reading_time": 6,
+      "hashtags": ["#Technology", "#Innovation", "#Future"]
+    },
+    {
+      "id": 104,
+      "cover": "https://example.com/covers/book4.jpg",
+      "title": "Echoes of the Heart",
+      "author": "Michael Brown",
+      "author_img": "https://example.com/authors/author4.jpg",
+      "posted_date": "2024-11-15",
+      "reading_time": 10,
+      "hashtags": ["#Romance", "#Poetry", "#Feelings"]
+    }
+  ]
+  
